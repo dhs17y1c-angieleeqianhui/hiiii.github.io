@@ -3,7 +3,13 @@
 
 * {
 font-family: 'Indie Flower',Arial,Roboto;
-  background-colour: green;
+background-colour: aqua;
+}
+
+img {
+width: 90%;
+  height: 80%;
+  align:center;
 }
 
 </style.css>
