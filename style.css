@@ -1,4 +1,5 @@
 <style.css>
+<style>
 <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
 
 * {
@@ -11,5 +12,5 @@ width: 90%;
   height: 80%;
   align:center;
 }
-
+</style>
 </style.css>
