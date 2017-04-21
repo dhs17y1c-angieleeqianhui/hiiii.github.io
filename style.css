@@ -1,20 +1,10 @@
 <style.css>
 <head>
-<link href="style.css" type="text/css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 </head>
-
 <style>
 * {
-font-family: 'Indie Flower',cursive;
-background-color: aqua;
+font-family: 'Open Sans', sans-serif;
 }
-
-img {
-width: 50%;
-height: 40%;  
-margin: auto;
-}
-
 </style>
 </style.css>
