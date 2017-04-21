@@ -4,9 +4,13 @@ p {
 }
 
 h1 {
-font-family: 'Pacifico', cursive,sans-serif;
+font:30px 'Pacifico', cursive,sans-serif;
 }
 
 *{
 background-color: aqua;
+}
+
+h2{
+font=
 }
