@@ -1,11 +1,11 @@
 <style.css>
 <head>
-<style>
 <link href="style.css" type="text/css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
 </head>
 
-* {
+<style>
+p,h2{
 font-family: 'Indie Flower',cursive;
 background-color: aqua;
 }
