@@ -6,3 +6,7 @@ p {
 h1 {
 font-family: 'Pacifico', cursive,sans-serif;
 }
+
+*{
+background-color: aqua;
+}
