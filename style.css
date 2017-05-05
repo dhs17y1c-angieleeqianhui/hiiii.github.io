@@ -8,7 +8,7 @@ font: 30px 'Pacifico', cursive,sans-serif;
 
 *{
 background-color: aqua;
-    align-content:centre;
+    text-align:center;
 }
 
 h2{
