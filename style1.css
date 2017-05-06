@@ -1,6 +1,7 @@
 * {
     background-color:#e6fff2;
     text-align:center;
+    margin:100px 25px;
 }
     
 h1{
@@ -15,7 +16,7 @@ h2{
 p{
     font-family: 'Shadows Into Light',cursive;
     font-weight:bold;
-    margin: 100px 25px;
+   
 }
 
 li{
