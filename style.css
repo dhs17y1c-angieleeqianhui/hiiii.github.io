@@ -1,5 +1,5 @@
 p {
-    font: 15px arial, sans-serif;
+    font: 15px 'Shadows Into Ligt',cursive, sans-serif;
 }
 
 h1 {
@@ -7,7 +7,7 @@ font: 30px 'Pacifico', cursive,sans-serif;
 }
 
 *{
-background-color: aqua;
+    background-color: #e6fff2;
     text-align:center;
 }
 
